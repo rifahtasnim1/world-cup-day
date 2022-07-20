@@ -1,0 +1,57 @@
+body {
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 5px;
+}
+
+
+.player-area {
+    display: flex;
+    background-color: black;
+    box-shadow: 50px 20px white;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 30px 30px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+
+.description h1 {
+    color: white;
+    font-size: 30px;
+}
+
+
+
+
+
+.description p {
+
+    /*padding: 0 100px;*/
+    color: white;
+    font-size: 12px;
+
+}
+
+.player-image {
+    width: 50%;
+    height: 30%;
+
+}
+
+.description button {
+    background-image: linear-gradient(orange, tomato);
+    background-size: 300%;
+    padding: 3px 5px;
+    color: white;
+    font-size: 20px;
+
+    /*line-height: 1;*/
+    border-radius: 30px;
+    border: 0;
+
+}
+
+.playing area {
+    display: flex;
+}
